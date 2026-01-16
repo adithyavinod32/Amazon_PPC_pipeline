@@ -1,9 +1,6 @@
 # Amazon_PPC_pipeline
 Automated Amazon PPC analysis pipeline (Python + pandas → Excel exec summary) with campaign/ASIN targeting insights and growth playbook.
 
-
-Automated analysis of Amazon Sponsored Products PPC data using Python and pandas, generating an executive-ready “Growth Marketing Analysis: Scale & Systems Strategy” workbook.
-
 The pipeline ingests Amazon **Advertised Product** and **Targeting** reports, cleans and standardizes the data, computes key PPC metrics (CTR, CVR, CPC, ACOS, ROAS), and aggregates performance at the campaign, ASIN, portfolio, targeting-type, and day-of-week levels. It then exports a multi-sheet Excel file with ready-to-use tables for an executive summary.
 
 ## Features
