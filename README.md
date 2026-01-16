@@ -1,7 +1,6 @@
 # Amazon_PPC_pipeline
 Automated Amazon PPC analysis pipeline (Python + pandas → Excel exec summary) with campaign/ASIN targeting insights and growth playbook.
 
-# Amazon PPC Growth Marketing Pipeline
 
 Automated analysis of Amazon Sponsored Products PPC data using Python and pandas, generating an executive-ready “Growth Marketing Analysis: Scale & Systems Strategy” workbook.
 
